@@ -28,7 +28,7 @@
 1. **Clone or Download**  
    - 直接克隆此專案：  
      ```bash
-     git clone https://github.com/yourname/neuroscience-traceability.git
+     git clone https://github.com/steven-studio/neuroscience-traceability.git
      ```
    - 或下載 ZIP。
 
